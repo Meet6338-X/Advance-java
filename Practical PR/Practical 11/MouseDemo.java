@@ -5,7 +5,7 @@ import java.awt.event.*;
 /* <APPLET CODE ="MouseDemo" WIDTH=300 HEIGHT=200> </APPLET> */
 public class MouseDemo extends Applet implements MouseListener {
     Label l;
-
+error
     public void init() {
         setLayout(null);
         l = new Label("Hello Mouse");
