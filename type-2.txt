@@ -1,0 +1,3 @@
+derby virtual databse netbeans
+
+service -> database -> javadb right click -> create database -> username password -> Driver TYCO -> connect -> table -> create table -> add column (rollnum,sname) -> character compulsory -> view data -> add row -> add data -> project -> view project -> filename -> write code in try catch block -> Statement s = c.createStatement(); -> ResultSet r = s.executeQuery("Select * from stud"); -> Add library javadb -> katam
